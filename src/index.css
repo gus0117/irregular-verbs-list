@@ -5,29 +5,40 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #011627;
+}
+
 .container {
-  padding: 0 16px;
+  width: 100%;
+  padding: 10px 15px;
 }
 
 /* TABLE */
 
 .table {
+  color: #dfdfdf;
   width: 100%;
   text-align: center;
-  margin: 20px 10px;
+  margin: 20px auto;
+  max-width: 1200px;
 }
 
 .table, th, td, caption {
-  border: 1px solid black;
+  border: 1px solid #363636;
 }
 
 caption {
   background-color: aqua;
   text-transform: uppercase;
+  color: #011627;
+  font-weight: 700;
+  padding: 10px;
 }
 
 .table thead {
   text-align: center;
+  font-weight: 700;
 }
 
 /* SEARCH */
@@ -37,6 +48,7 @@ caption {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #dfdfdf;
 }
 
 .search input {
@@ -48,4 +60,13 @@ caption {
 
 .btn-search {
   padding: 3px 8px;
+}
+
+.msg {
+  display: flex;
+  justify-content: center;
+  color: #dfdfdf;
+  background-color: #0473ce;
+  padding: 10px 15px;
+  font-size: 20px;
 }

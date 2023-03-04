@@ -30,7 +30,7 @@ const Table = () => {
             getVerbsFiltered={getVerbsFiltered}
         />
         <div className='table-responsive'>
-            <table className='table'>
+        <table className='table'>
                 <caption>Irregular english verbs</caption>
                 <thead>
                     <tr>
@@ -54,6 +54,10 @@ const Table = () => {
                     }
                 </tbody>
             </table>
+        {
+            verbs.length === 0 || verbs === null ? 
+            <span className='msg'>Ups! No results 😢</span> : null
+        }
         </div>
     </div>
   )
