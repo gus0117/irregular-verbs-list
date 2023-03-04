@@ -1,0 +1,927 @@
+{
+	"verbs": [{
+			"inf": "Arise",
+			"ps": "Arose",
+			"pp": "Arisen",
+			"es": "Surgir, Levantarse"
+		},
+		{
+			"inf": "Awake",
+			"ps": "Awoke",
+			"pp": "Awoken",
+			"es": "Despertarse"
+		},
+		{
+			"inf": "Be/ am, are, is",
+			"ps": "Was / Were",
+			"pp": "Been",
+			"es": "Ser / Estar"
+		},
+		{
+			"inf": "Bear",
+			"ps": "Bore",
+			"pp": "Borne / Born",
+			"es": "Soportar, dar a luz"
+		},
+		{
+			"inf": "Beat",
+			"ps": "Beat",
+			"pp": "Beaten",
+			"es": "Golpear"
+		},
+		{
+			"inf": "Become",
+			"ps": "Became",
+			"pp": "Become",
+			"es": "Llegar a Ser"
+		},
+		{
+			"inf": "Begin",
+			"ps": "Began",
+			"pp": "Begun",
+			"es": "Empezar"
+		},
+		{
+			"inf": "Bend",
+			"ps": "Bent",
+			"pp": "Bent",
+			"es": "Doblar"
+		},
+		{
+			"inf": "Bet",
+			"ps": "Bet",
+			"pp": "Bet",
+			"es": "Apostar"
+		},
+		{
+			"inf": "Bind",
+			"ps": "Bound",
+			"pp": "Bound",
+			"es": "Atar, encuadernar"
+		},
+		{
+			"inf": "Bid",
+			"ps": "Bid",
+			"pp": "Bid",
+			"es": "Pujar"
+		},
+		{
+			"inf": "Bite",
+			"ps": "Bit",
+			"pp": "Bitten",
+			"es": "Morder"
+		},
+		{
+			"inf": "Bleed",
+			"ps": "Bled",
+			"pp": "Bled",
+			"es": "Sangrar"
+		},
+		{
+			"inf": "Blow",
+			"ps": "Blew",
+			"pp": "Blown",
+			"es": "Soplar"
+		},
+		{
+			"inf": "Break",
+			"ps": "Broke",
+			"pp": "Broken",
+			"es": "Romper"
+		},
+		{
+			"inf": "Breed",
+			"ps": "Bred",
+			"pp": "Bred",
+			"es": "Criar"
+		},
+		{
+			"inf": "Bring",
+			"ps": "Brought",
+			"pp": "Brought",
+			"es": "Traer Llevar"
+		},
+		{
+			"inf": "Broadcast",
+			"ps": "Broadcast",
+			"pp": "Broadcast",
+			"es": "Radiar"
+		},
+		{
+			"inf": "Build",
+			"ps": "Built",
+			"pp": "Built",
+			"es": "Edificar"
+		},
+		{
+			"inf": "Burn",
+			"ps": "Burnt  / Burned",
+			"pp": "Burnt  / Burned",
+			"es": "Quemar"
+		},
+		{
+			"inf": "Burst",
+			"ps": "Burst",
+			"pp": "Burst",
+			"es": "Reventar"
+		},
+		{
+			"inf": "Buy",
+			"ps": "Bought",
+			"pp": "Bought",
+			"es": "Comprar"
+		},
+		{
+			"inf": "Cast",
+			"ps": "Cast",
+			"pp": "Cast",
+			"es": "Arrojar"
+		},
+		{
+			"inf": "Catch",
+			"ps": "Caught",
+			"pp": "Caught",
+			"es": "Coger"
+		},
+		{
+			"inf": "Come",
+			"ps": "Came",
+			"pp": "Come",
+			"es": "Venir"
+		},
+		{
+			"inf": "Cost",
+			"ps": "Cost",
+			"pp": "Cost",
+			"es": "Costar"
+		},
+		{
+			"inf": "Cut",
+			"ps": "Cut",
+			"pp": "Cut",
+			"es": "Cortar"
+		},
+		{
+			"inf": "Choose",
+			"ps": "Chose",
+			"pp": "Chosen",
+			"es": "Elegir"
+		},
+		{
+			"inf": "Cling",
+			"ps": "Clung",
+			"pp": "Clung",
+			"es": "Agarrarse"
+		},
+		{
+			"inf": "Creep",
+			"ps": "Crept",
+			"pp": "Crept",
+			"es": "Arrastrarse"
+		},
+		{
+			"inf": "Deal",
+			"ps": "Dealt",
+			"pp": "Dealt",
+			"es": "Tratar"
+		},
+		{
+			"inf": "Dig",
+			"ps": "Dug",
+			"pp": "Dug",
+			"es": "Cavar"
+		},
+		{
+			"inf": "Do  (Does)",
+			"ps": "Did",
+			"pp": "Done",
+			"es": "Hacer"
+		},
+		{
+			"inf": "Draw",
+			"ps": "Drew",
+			"pp": "Drawn",
+			"es": "Dibujar"
+		},
+		{
+			"inf": "Dream",
+			"ps": "Dreamt /Dreamed",
+			"pp": "Dreamt /Dreamed",
+			"es": "Soñar"
+		},
+		{
+			"inf": "Drink",
+			"ps": "Drank",
+			"pp": "Drunk",
+			"es": "Beber"
+		},
+		{
+			"inf": "Drive",
+			"ps": "Drove",
+			"pp": "Driven",
+			"es": "Conducir"
+		},
+		{
+			"inf": "Eat",
+			"ps": "Ate",
+			"pp": "Eaten",
+			"es": "Comer"
+		},
+		{
+			"inf": "Fall",
+			"ps": "Fell",
+			"pp": "Fallen",
+			"es": "Caer"
+		},
+		{
+			"inf": "Feed",
+			"ps": "Fed",
+			"pp": "Fed",
+			"es": "Alimentar"
+		},
+		{
+			"inf": "Feel",
+			"ps": "Felt",
+			"pp": "Felt",
+			"es": "Sentir"
+		},
+		{
+			"inf": "Fight",
+			"ps": "Fought",
+			"pp": "Fought",
+			"es": "Luchar"
+		},
+		{
+			"inf": "Find",
+			"ps": "Found",
+			"pp": "Found",
+			"es": "Encontrar"
+		},
+		{
+			"inf": "Flee",
+			"ps": "Fled",
+			"pp": "Fled",
+			"es": "Huir"
+		},
+		{
+			"inf": "Fly",
+			"ps": "Flew",
+			"pp": "Flown",
+			"es": "Volar"
+		},
+		{
+			"inf": "Forbid",
+			"ps": "Forbade",
+			"pp": "Forbidden",
+			"es": "Prohibir"
+		},
+		{
+			"inf": "Forget",
+			"ps": "Forgot",
+			"pp": "Forgotten",
+			"es": "Olvidar"
+		},
+		{
+			"inf": "Forgive",
+			"ps": "Forgave",
+			"pp": "Forgiven",
+			"es": "Perdonar"
+		},
+		{
+			"inf": "Freeze",
+			"ps": "Froze",
+			"pp": "Frozen",
+			"es": "Helar"
+		},
+		{
+			"inf": "Get",
+			"ps": "Got",
+			"pp": "Got / Gotten",
+			"es": "Obtener"
+		},
+		{
+			"inf": "Give",
+			"ps": "Gave",
+			"pp": "Given",
+			"es": "Dar"
+		},
+		{
+			"inf": "Go (Goes)",
+			"ps": "Went",
+			"pp": "Gone",
+			"es": "Ir"
+		},
+		{
+			"inf": "Grow",
+			"ps": "Grew",
+			"pp": "Grown",
+			"es": "Crecer"
+		},
+		{
+			"inf": "Grind",
+			"ps": "Ground",
+			"pp": "Ground",
+			"es": "Moler"
+		},
+		{
+			"inf": "Hang",
+			"ps": "Hung",
+			"pp": "Hung",
+			"es": "Colgar"
+		},
+		{
+			"inf": "Have",
+			"ps": "Had",
+			"pp": "Had",
+			"es": "Haber o Tener"
+		},
+		{
+			"inf": "Hear",
+			"ps": "Heard",
+			"pp": "Heard",
+			"es": "Oir"
+		},
+		{
+			"inf": "Hide",
+			"ps": "Hid",
+			"pp": "Hidden",
+			"es": "Ocultar"
+		},
+		{
+			"inf": "Hit",
+			"ps": "Hit",
+			"pp": "Hit",
+			"es": "Golpear"
+		},
+		{
+			"inf": "Hold",
+			"ps": "Held",
+			"pp": "Held",
+			"es": "Agarrar Celebrar"
+		},
+		{
+			"inf": "Hurt",
+			"ps": "Hurt",
+			"pp": "Hurt",
+			"es": "Herir"
+		},
+		{
+			"inf": "Keep",
+			"ps": "Kept",
+			"pp": "Kept",
+			"es": "Conservar"
+		},
+		{
+			"inf": "Know",
+			"ps": "Knew",
+			"pp": "Known",
+			"es": "Saber Conocer"
+		},
+		{
+			"inf": "Kneel",
+			"ps": "Knelt",
+			"pp": "Knelt",
+			"es": "Arrodillarse"
+		},
+		{
+			"inf": "Knit",
+			"ps": "Knit",
+			"pp": "Knit",
+			"es": "Hacer punto"
+		},
+		{
+			"inf": "Lay",
+			"ps": "Laid",
+			"pp": "Laid",
+			"es": "Poner"
+		},
+		{
+			"inf": "Lead",
+			"ps": "Led",
+			"pp": "Led",
+			"es": "Conducir"
+		},
+		{
+			"inf": "Lean",
+			"ps": "Leant",
+			"pp": "Leant",
+			"es": "Apoyarse"
+		},
+		{
+			"inf": "Leap",
+			"ps": "Leapt",
+			"pp": "Leapt",
+			"es": "Brincar"
+		},
+		{
+			"inf": "Learn",
+			"ps": "Learnt / Learned",
+			"pp": "Learnt / Learned",
+			"es": "Aprender"
+		},
+		{
+			"inf": "Leave",
+			"ps": "Left",
+			"pp": "Left",
+			"es": "Dejar"
+		},
+		{
+			"inf": "Lend",
+			"ps": "Lent",
+			"pp": "Lent",
+			"es": "Prestar"
+		},
+		{
+			"inf": "Let",
+			"ps": "Let",
+			"pp": "Let",
+			"es": "Permitir"
+		},
+		{
+			"inf": "Lie",
+			"ps": "Lay",
+			"pp": "Lain",
+			"es": "Echarse"
+		},
+		{
+			"inf": "Light",
+			"ps": "Lit",
+			"pp": "Lit",
+			"es": "Encender"
+		},
+		{
+			"inf": "Lose",
+			"ps": "Lost",
+			"pp": "Lost",
+			"es": "Perder"
+		},
+		{
+			"inf": "Make",
+			"ps": "Made",
+			"pp": "Made",
+			"es": "Hacer"
+		},
+		{
+			"inf": "Mean",
+			"ps": "Meant",
+			"pp": "Meant",
+			"es": "Significar"
+		},
+		{
+			"inf": "Meet",
+			"ps": "Met",
+			"pp": "Met",
+			"es": "Encontrar"
+		},
+		{
+			"inf": "Mistake",
+			"ps": "Mistook",
+			"pp": "Mistaken",
+			"es": "Equivocar"
+		},
+		{
+			"inf": "Overcome",
+			"ps": "Overcame",
+			"pp": "Overcome",
+			"es": "Vencer"
+		},
+		{
+			"inf": "Pay",
+			"ps": "Paid",
+			"pp": "Paid",
+			"es": "Pagar"
+		},
+		{
+			"inf": "Put",
+			"ps": "Put",
+			"pp": "Put",
+			"es": "Poner"
+		},
+		{
+			"inf": "Read",
+			"ps": "Read",
+			"pp": "Read",
+			"es": "Leer"
+		},
+		{
+			"inf": "Ride",
+			"ps": "Rode",
+			"pp": "Ridden",
+			"es": "Montar"
+		},
+		{
+			"inf": "Ring",
+			"ps": "Rang",
+			"pp": "Rung",
+			"es": "Llamar"
+		},
+		{
+			"inf": "Rise",
+			"ps": "Rose",
+			"pp": "Risen",
+			"es": "Levantarse"
+		},
+		{
+			"inf": "Run",
+			"ps": "Ran",
+			"pp": "Run",
+			"es": "Correr"
+		},
+		{
+			"inf": "Say",
+			"ps": "Said",
+			"pp": "Said",
+			"es": "Decir"
+		},
+		{
+			"inf": "See",
+			"ps": "Saw",
+			"pp": "Seen",
+			"es": "Ver"
+		},
+		{
+			"inf": "Seek",
+			"ps": "Sought",
+			"pp": "Sought",
+			"es": "Buscar"
+		},
+		{
+			"inf": "Sell",
+			"ps": "Sold",
+			"pp": "Sold",
+			"es": "Vender"
+		},
+		{
+			"inf": "Send",
+			"ps": "Sent",
+			"pp": "Sent",
+			"es": "Enviar"
+		},
+		{
+			"inf": "Set",
+			"ps": "Set",
+			"pp": "Set",
+			"es": "Poner(se)"
+		},
+		{
+			"inf": "Sew",
+			"ps": "Sewed",
+			"pp": "Sewed / Sewn",
+			"es": "Coser"
+		},
+		{
+			"inf": "Shake",
+			"ps": "Shook",
+			"pp": "Shaken",
+			"es": "Sacudir"
+		},
+		{
+			"inf": "Shear",
+			"ps": "Shore",
+			"pp": "Shorn",
+			"es": "Esquilar"
+		},
+		{
+			"inf": "Shine",
+			"ps": "Shone",
+			"pp": "Shone",
+			"es": "Brillar"
+		},
+		{
+			"inf": "Shoot",
+			"ps": "Shot",
+			"pp": "Shot",
+			"es": "Disparar"
+		},
+		{
+			"inf": "Show",
+			"ps": "Showed",
+			"pp": "Shown",
+			"es": "Mostrar"
+		},
+		{
+			"inf": "Shrink",
+			"ps": "Shrank",
+			"pp": "Shrunk",
+			"es": "Encogerse"
+		},
+		{
+			"inf": "Shut",
+			"ps": "Shut",
+			"pp": "Shut",
+			"es": "Cerrar"
+		},
+		{
+			"inf": "Sing",
+			"ps": "Sang",
+			"pp": "Sung",
+			"es": "Cantar"
+		},
+		{
+			"inf": "Sink",
+			"ps": "Sank",
+			"pp": "Sunk",
+			"es": "Hundir"
+		},
+		{
+			"inf": "Sit",
+			"ps": "Sat",
+			"pp": "Sat",
+			"es": "Sentarse"
+		},
+		{
+			"inf": "Sleep",
+			"ps": "Slept",
+			"pp": "Slept",
+			"es": "Dormir"
+		},
+		{
+			"inf": "Slide",
+			"ps": "Slid",
+			"pp": "Slid",
+			"es": "Resbalar"
+		},
+		{
+			"inf": "Smell",
+			"ps": "Smelt",
+			"pp": "Smelt",
+			"es": "Oler"
+		},
+		{
+			"inf": "Sow",
+			"ps": "Sowed",
+			"pp": "Sowed / Sown",
+			"es": "Sembrar"
+		},
+		{
+			"inf": "Speak",
+			"ps": "Spoke",
+			"pp": "Spoken",
+			"es": "Hablar"
+		},
+		{
+			"inf": "Speed",
+			"ps": "Sped",
+			"pp": "Sped",
+			"es": "Acelerar"
+		},
+		{
+			"inf": "Spell",
+			"ps": "Spelt",
+			"pp": "Spelt",
+			"es": "Deletrear"
+		},
+		{
+			"inf": "Spend",
+			"ps": "Spent",
+			"pp": "Spent",
+			"es": "Gastar"
+		},
+		{
+			"inf": "Spill",
+			"ps": "Spilt / Spilled",
+			"pp": "Spilt / Spilled",
+			"es": "Derramar"
+		},
+		{
+			"inf": "Spin",
+			"ps": "Spun",
+			"pp": "Spun",
+			"es": "Hilar"
+		},
+		{
+			"inf": "Spit",
+			"ps": "Spat",
+			"pp": "Spat",
+			"es": "Escupir"
+		},
+		{
+			"inf": "Split",
+			"ps": "Split",
+			"pp": "Split",
+			"es": "Hender / partir / rajar"
+		},
+		{
+			"inf": "Spoil",
+			"ps": "Spoilt / Spoiled",
+			"pp": "Spoilt / Spoiled",
+			"es": "Estropear"
+		},
+		{
+			"inf": "Spread",
+			"ps": "Spread",
+			"pp": "Spread",
+			"es": "Extender"
+		},
+		{
+			"inf": "Spring",
+			"ps": "Sprang",
+			"pp": "Sprung",
+			"es": "Saltar"
+		},
+		{
+			"inf": "Stand",
+			"ps": "Stood",
+			"pp": "Stood",
+			"es": "Estar en pie"
+		},
+		{
+			"inf": "Steal",
+			"ps": "Stole",
+			"pp": "Stolen",
+			"es": "Robar"
+		},
+		{
+			"inf": "Stick",
+			"ps": "Stuck",
+			"pp": "Stuck",
+			"es": "Pegar Engomar"
+		},
+		{
+			"inf": "Sting",
+			"ps": "Stung",
+			"pp": "Stung",
+			"es": "Picar"
+		},
+		{
+			"inf": "Stink",
+			"ps": "Stank/Stunk",
+			"pp": "Stunk",
+			"es": "Apestar"
+		},
+		{
+			"inf": "Stride",
+			"ps": "Strode",
+			"pp": "Stridden",
+			"es": "Dar zancadas"
+		},
+		{
+			"inf": "Strike",
+			"ps": "Struck",
+			"pp": "Struck",
+			"es": "Golpear"
+		},
+		{
+			"inf": "Swear",
+			"ps": "Swore",
+			"pp": "Sworn",
+			"es": "Jurar"
+		},
+		{
+			"inf": "Sweat",
+			"ps": "Sweat",
+			"pp": "Sweat",
+			"es": "Sudar"
+		},
+		{
+			"inf": "Sweep",
+			"ps": "Swept",
+			"pp": "Swept",
+			"es": "Barrer"
+		},
+		{
+			"inf": "Swell",
+			"ps": "Swelled",
+			"pp": "Swollen",
+			"es": "Hinchar"
+		},
+		{
+			"inf": "Swim",
+			"ps": "Swam",
+			"pp": "Swum",
+			"es": "Nadar"
+		},
+		{
+			"inf": "Swing",
+			"ps": "Swung",
+			"pp": "Swung",
+			"es": "Columpiarse"
+		},
+		{
+			"inf": "Take",
+			"ps": "Took",
+			"pp": "Taken",
+			"es": "Coger"
+		},
+		{
+			"inf": "Teach",
+			"ps": "Taught",
+			"pp": "Taught",
+			"es": "Enseñar"
+		},
+		{
+			"inf": "Tear",
+			"ps": "Tore",
+			"pp": "Torn",
+			"es": "Rasgar"
+		},
+		{
+			"inf": "Tell",
+			"ps": "Told",
+			"pp": "Told",
+			"es": "Decir"
+		},
+		{
+			"inf": "Think",
+			"ps": "Thought",
+			"pp": "Thought",
+			"es": "Pensar"
+		},
+		{
+			"inf": "Throw",
+			"ps": "Threw",
+			"pp": "Thrown",
+			"es": "Arrojar Tirar"
+		},
+		{
+			"inf": "Thrust",
+			"ps": "Thrust",
+			"pp": "Thrust",
+			"es": "Introducir"
+		},
+		{
+			"inf": "Tread",
+			"ps": "Trod",
+			"pp": "Trodden",
+			"es": "Pisar, hollar"
+		},
+		{
+			"inf": "Understand",
+			"ps": "Understood",
+			"pp": "Understood",
+			"es": "Entender"
+		},
+		{
+			"inf": "Undergo",
+			"ps": "Underwent",
+			"pp": "Undergone",
+			"es": "Sufrir"
+		},
+		{
+			"inf": "Undertake",
+			"ps": "Undertook",
+			"pp": "Undertaken",
+			"es": "Emprender"
+		},
+		{
+			"inf": "Wake",
+			"ps": "Woke",
+			"pp": "Woken",
+			"es": "Despertarse"
+		},
+		{
+			"inf": "Wear",
+			"ps": "Wore",
+			"pp": "Worn",
+			"es": "Llevar puesto"
+		},
+		{
+			"inf": "Weave",
+			"ps": "Wove",
+			"pp": "Woven",
+			"es": "Tejer"
+		},
+		{
+			"inf": "Weep",
+			"ps": "Wept",
+			"pp": "Wept",
+			"es": "Llorar"
+		},
+		{
+			"inf": "Wet",
+			"ps": "Wet",
+			"pp": "Wet",
+			"es": "Mojar"
+		},
+		{
+			"inf": "Win",
+			"ps": "Won",
+			"pp": "Won",
+			"es": "Ganar"
+		},
+		{
+			"inf": "Wind",
+			"ps": "Wound",
+			"pp": "Wound",
+			"es": "Enrollar"
+		},
+		{
+			"inf": "Withdraw",
+			"ps": "Withdrew",
+			"pp": "Withdrawn",
+			"es": "Retirarse"
+		},
+		{
+			"inf": "Wring",
+			"ps": "Wrung",
+			"pp": "Wrung",
+			"es": "Torcer"
+		},
+		{
+			"inf": "Write",
+			"ps": "Wrote",
+			"pp": "Written",
+			"es": "Escribir"
+		}
+	]
+}

@@ -1,0 +1,51 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+/* TABLE */
+
+.table {
+  width: 100%;
+  text-align: center;
+  margin: 20px 10px;
+}
+
+.table, th, td, caption {
+  border: 1px solid black;
+}
+
+caption {
+  background-color: aqua;
+  text-transform: uppercase;
+}
+
+.table thead {
+  text-align: center;
+}
+
+/* SEARCH */
+
+.search {
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search input {
+  width: 50%;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 3px 8px;
+}
+
+.btn-search {
+  padding: 3px 8px;
+}
