@@ -31,7 +31,7 @@ const Table = () => {
         />
         <div className='table-responsive'>
         <table className='table'>
-                <caption>Irregular english verbs</caption>
+                <caption>Irregular verbs</caption>
                 <thead>
                     <tr>
                         <th>Infinitive</th>
