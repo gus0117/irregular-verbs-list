@@ -49,6 +49,8 @@ caption {
   align-items: center;
   justify-content: center;
   color: #dfdfdf;
+  max-width: 680px;
+
 }
 
 .search input {
